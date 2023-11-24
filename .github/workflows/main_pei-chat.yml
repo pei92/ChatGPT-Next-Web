@@ -59,4 +59,4 @@ jobs:
           app-name: 'pei-chat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13E262BC2F1548C19687D66959C65A04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35B2D560105145FF921F3D164312B8EF }}
